@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character color="#BE5E2B" holdTime="6.1" scale="1.6667" icon="detg">
+	<anim name="idle" anim="i" x="-214.8" y="197.2" fps="30" loop="true"/>
+	<anim name="idle-alt" anim="alti" x="-214.8" y="197.2" fps="30" loop="true"/>
+	<anim name="singDOWN" anim="d" x="-79.8" y="-192.8" fps="30" loop="false"/>
+	<anim name="singDOWN-alt" anim="altd" x="-79.8" y="-192.8" fps="30" loop="false"/>
+	<anim name="singLEFT" anim="l" x="229.2" y="182.2" fps="30" loop="false"/>
+	<anim name="singLEFT-alt" anim="altl" x="229.2" y="182.2" fps="30" loop="false"/>
+	<anim name="singRIGHT" anim="r" x="298.2" y="167.2" fps="30" loop="false"/>
+	<anim name="singRIGHT-alt" anim="altr" x="298.2" y="167.2" fps="30" loop="false"/>
+	<anim name="singUP" anim="u" x="445.2" y="146.2" fps="30" loop="false"/>
+	<anim name="singUP-alt" anim="altu" x="445.2" y="146.2" fps="30" loop="false"/>
+	<anim name="lookback" anim="back" x="-214.8" y="197.2" fps="30" loop="true"/>
+	<anim name="lookover" anim="over" x="-214.8" y="197.2" fps="30" loop="false"/>
+</character>
